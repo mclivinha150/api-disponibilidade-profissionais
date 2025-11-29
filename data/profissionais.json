@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Maria Silva",
+    "especialidade": "Cardiologia",
+    "dias_disponiveis": ["Segunda", "Quarta"]
+  },
+  {
+    "nome": "João Santos",
+    "especialidade": "Pediatria",
+    "dias_disponiveis": ["Terça", "Quinta"]
+  }
+]
